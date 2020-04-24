@@ -1,1 +1,5 @@
-"# CBL_LRNG" 
+# CBL_LRNG ("COBOL Learning")
+
+## Purpose
+
+
